@@ -26,7 +26,7 @@ def info():
 		#          Author->  %s     # 
 		#                               #
 		#################################
-		""" % (VERSION, AUTHOR Bazti))
+		""" % (VERSION, AUTHOR))
 def heads():
 	global head
 	head = E+H+"""
